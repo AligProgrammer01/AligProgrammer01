@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AligProgrammer01
 - 👀 I’m interested in programming, gaming and books.
 - 🌱 I’m currently programming (probably at this very moment).
-- 💞️ I am not looking to collaborate on programming right now. Maybe later.
+- 💞️ If you want to collaborate, or just have a question email me.
 - 📫 You can reach me through my email: alirezashedu22@gmail.com
 
 <!---
