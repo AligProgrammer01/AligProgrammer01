@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AligProgrammer01
-- 👀 I’m interested in programming, gaming and books.
+- ⚓ My full name is Alireza Shabaniverki
+- 👀 I’m interested in programming, AI, gaming and books.
 - 🌱 I’m currently programming (probably at this very moment).
 - 💞️ If you want to collaborate, or just have a question email me.
-- 📫 You can reach me through my email: alirezashedu22@gmail.com
+- 🎓 Currently studying BSc Computer Science at University Of London.
+- 🔗 Email: alirezashedu22@gmail.com
+- 🔗 X: https://x.com/AlirezaShabaniV
 
 <!---
 AligProgrammer01/AligProgrammer01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
