@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AligProgrammer01
-- ⚓ My full name is Alireza Shabaniverki
+- 👋 Hi, I’m @AligProgrammer01.
+- ⚓ My full name is Alireza Shabaniverki.
 - 👀 I’m interested in programming, AI, gaming and books.
 - 💞️ If you want to collaborate, or just have a question feel free to email me.
 - 🎓 Currently studying BSc Computer Science at University Of London.
