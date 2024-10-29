@@ -2,7 +2,7 @@
 - ⚓ My full name is Alireza Shabaniverki.
 - 👀 I’m interested in programming, AI, gaming and books.
 - 💞️ If you want to collaborate, or just have a question feel free to email me.
-- 🎓 Currently studying BSc Computer Science at University Of London.
+- 🎓 Currently studying BSc Computer Science at University of London.
 - 🌱 I’m currently programming (probably at this very moment).
 - 📧 Email: alirezashedu22@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alireza-shabaniverki/)
